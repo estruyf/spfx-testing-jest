@@ -1,6 +1,9 @@
-# SharePoint Framework Unit Test Sample with Jest
+# SharePoint Framework Unit-Tests Sample with Jest
 
-WRITE DESCRIPTION
+This is a sample project which shows you how you can use the Jest test runner for you SharePoint Framework unit-tests. 
+
+> **Info**: More information about this sample can be read here: [SharePoint Framework unit-tests with Jest
+](https://www.eliostruyf.com/sharepoint-framework-unit-tests-with-jest/)
 
 ![Web part render](/assets/wp-render.png)
 

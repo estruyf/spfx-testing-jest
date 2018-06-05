@@ -31,9 +31,8 @@
     "gulp": "~3.9.1",
     "identity-obj-proxy": "3.0.0",
     "jest": "23.1.0",
-    "karma-sourcemap-loader": "0.3.7",
     "react-addons-test-utils": "15.6.2",
-    "react-test-renderer": "16.4.0",
+    "react-test-renderer": "15.6.2",
     "ts-jest": "22.4.6"
   },
   "scripts": {
